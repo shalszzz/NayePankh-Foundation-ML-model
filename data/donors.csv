@@ -1,0 +1,501 @@
+donor_id,recency_days,frequency,avg_donation_inr,donor_type,acquisition_campaign,city,will_donate_again,predicted_next_donation
+D0001,43,8,620,Individual,Clothes Donation,Kanpur,1,790
+D0002,271,8,3690,Individual,Food Drive,Lucknow,0,0
+D0003,119,7,2870,Student,Food Drive,Delhi,0,0
+D0004,83,8,4900,Corporate,Food Drive,Ghaziabad,1,6600
+D0005,16,2,580,Individual,Clothes Donation,Delhi,0,0
+D0006,16,6,870,Student,Word of Mouth,Ghaziabad,1,790
+D0007,6,7,170,Individual,Sanitary Pad Drive,Lucknow,1,170
+D0008,182,10,2510,Individual,Food Drive,Kanpur,1,3280
+D0009,83,2,230,Individual,Sanitary Pad Drive,Delhi,0,0
+D0010,111,3,810,Student,Education Fund,Delhi,1,960
+D0011,2,3,250,Student,Education Fund,Kanpur,1,330
+D0012,316,2,390,Individual,Clothes Donation,Ghaziabad,0,0
+D0013,161,1,310,Corporate,Clothes Donation,Other,0,0
+D0014,22,2,380,Individual,Food Drive,Ghaziabad,0,0
+D0015,19,1,410,Student,Food Drive,Lucknow,0,0
+D0016,19,2,410,Individual,Word of Mouth,Other,0,0
+D0017,33,4,1410,Individual,Education Fund,Delhi,1,1770
+D0018,67,3,250,Student,Food Drive,Lucknow,0,0
+D0019,51,1,810,Individual,Food Drive,Delhi,0,0
+D0020,31,4,1990,Individual,Food Drive,Mumbai,0,0
+D0021,86,3,420,Corporate,Education Fund,Ghaziabad,0,0
+D0022,14,1,350,NRI,Social Media,Ghaziabad,0,0
+D0023,32,4,540,Individual,Education Fund,Ghaziabad,1,580
+D0024,42,3,1920,Individual,Sanitary Pad Drive,Other,0,0
+D0025,55,2,790,Individual,Clothes Donation,Delhi,1,790
+D0026,139,3,410,Individual,Sanitary Pad Drive,Kanpur,0,0
+D0027,21,2,1030,Individual,Social Media,Mumbai,0,0
+D0028,65,1,250,Corporate,Social Media,Lucknow,0,0
+D0029,81,6,1230,NRI,Food Drive,Kanpur,0,0
+D0030,5,4,960,Individual,Social Media,Lucknow,1,1150
+D0031,85,3,500,Individual,Sanitary Pad Drive,Ghaziabad,0,0
+D0032,17,3,310,Individual,Word of Mouth,Mumbai,1,290
+D0033,7,1,300,Individual,Sanitary Pad Drive,Kanpur,0,0
+D0034,268,3,1080,Student,Word of Mouth,Mumbai,0,0
+D0035,304,4,2010,Individual,Social Media,Lucknow,0,0
+D0036,149,2,370,Individual,Education Fund,Kanpur,1,510
+D0037,33,2,1000,Corporate,Sanitary Pad Drive,Other,0,0
+D0038,10,4,100,Individual,Word of Mouth,Lucknow,0,0
+D0039,104,3,390,Corporate,Social Media,Ghaziabad,1,540
+D0040,53,3,650,Individual,Food Drive,Ghaziabad,1,560
+D0041,12,3,290,Student,Clothes Donation,Mumbai,1,280
+D0042,62,6,290,Student,Education Fund,Ghaziabad,0,0
+D0043,4,4,360,Corporate,Food Drive,Kanpur,1,360
+D0044,217,9,870,NRI,Sanitary Pad Drive,Kanpur,0,0
+D0045,27,8,560,Individual,Education Fund,Ghaziabad,1,470
+D0046,98,4,90,Individual,Social Media,Delhi,0,0
+D0047,34,1,100,Corporate,Education Fund,Ghaziabad,1,120
+D0048,67,4,390,Corporate,Social Media,Kanpur,1,460
+D0049,72,6,1000,Individual,Food Drive,Kanpur,0,0
+D0050,19,2,60,Individual,Education Fund,Ghaziabad,1,60
+D0051,315,2,420,Individual,Education Fund,Other,0,0
+D0052,135,2,410,Individual,Education Fund,Ghaziabad,1,380
+D0053,253,2,2320,Individual,Food Drive,Other,0,0
+D0054,203,2,470,Student,Food Drive,Lucknow,0,0
+D0055,82,2,940,Individual,Sanitary Pad Drive,Kanpur,0,0
+D0056,230,8,760,Individual,Education Fund,Mumbai,1,930
+D0057,9,5,100,Corporate,Sanitary Pad Drive,Ghaziabad,1,90
+D0058,20,15,1330,Corporate,Education Fund,Delhi,1,1520
+D0059,5,2,810,Student,Social Media,Other,1,1070
+D0060,36,3,1050,Corporate,Word of Mouth,Kanpur,0,0
+D0061,45,3,22780,Individual,Sanitary Pad Drive,Kanpur,0,0
+D0062,29,1,100,Student,Education Fund,Delhi,1,110
+D0063,159,1,3140,Individual,Food Drive,Ghaziabad,1,2780
+D0064,40,3,510,Individual,Word of Mouth,Kanpur,0,0
+D0065,30,6,860,Corporate,Food Drive,Kanpur,0,0
+D0066,71,2,640,Student,Education Fund,Kanpur,0,0
+D0067,14,2,450,Individual,Education Fund,Delhi,0,0
+D0068,146,5,400,Individual,Education Fund,Kanpur,0,0
+D0069,7,3,890,Individual,Food Drive,Ghaziabad,1,900
+D0070,391,4,170,Individual,Social Media,Lucknow,0,0
+D0071,134,2,1310,Individual,Food Drive,Ghaziabad,0,0
+D0072,20,2,460,Corporate,Clothes Donation,Kanpur,1,450
+D0073,1,2,240,Individual,Food Drive,Delhi,1,300
+D0074,153,2,440,Student,Food Drive,Kanpur,1,470
+D0075,111,1,2060,Student,Word of Mouth,Delhi,1,2250
+D0076,118,6,410,Corporate,Food Drive,Mumbai,0,0
+D0077,133,6,920,Student,Social Media,Ghaziabad,1,950
+D0078,7,2,340,Individual,Sanitary Pad Drive,Lucknow,1,360
+D0079,40,4,1320,Individual,Food Drive,Ghaziabad,1,1350
+D0080,12,2,1230,Corporate,Word of Mouth,Ghaziabad,0,0
+D0081,179,5,3510,Student,Education Fund,Mumbai,0,0
+D0082,88,2,570,Student,Social Media,Mumbai,0,0
+D0083,37,4,1210,Individual,Food Drive,Ghaziabad,1,1230
+D0084,6,7,730,Student,Social Media,Lucknow,0,0
+D0085,34,10,2140,Individual,Food Drive,Other,0,0
+D0086,36,5,350,Student,Sanitary Pad Drive,Other,1,340
+D0087,118,4,1300,NRI,Social Media,Lucknow,1,1260
+D0088,92,5,560,Individual,Word of Mouth,Ghaziabad,1,760
+D0089,197,1,630,Student,Word of Mouth,Kanpur,1,780
+D0090,58,8,720,Individual,Social Media,Other,1,830
+D0091,12,6,830,Individual,Social Media,Kanpur,0,0
+D0092,113,8,600,Individual,Food Drive,Lucknow,1,490
+D0093,129,1,810,Corporate,Education Fund,Ghaziabad,0,0
+D0094,75,1,2750,Student,Education Fund,Kanpur,0,0
+D0095,133,5,1610,Corporate,Education Fund,Ghaziabad,0,0
+D0096,62,5,1450,Individual,Education Fund,Other,0,0
+D0097,67,3,440,Student,Sanitary Pad Drive,Kanpur,1,370
+D0098,51,4,300,NRI,Food Drive,Lucknow,1,270
+D0099,3,2,1570,Individual,Clothes Donation,Kanpur,1,2150
+D0100,11,1,1460,NRI,Food Drive,Kanpur,1,1530
+D0101,3,2,2500,Individual,Education Fund,Ghaziabad,1,2700
+D0102,92,1,390,Student,Sanitary Pad Drive,Lucknow,0,0
+D0103,34,3,540,Individual,Social Media,Kanpur,0,0
+D0104,64,5,150,Individual,Clothes Donation,Ghaziabad,1,180
+D0105,215,2,470,Individual,Clothes Donation,Kanpur,0,0
+D0106,26,2,1630,Corporate,Food Drive,Ghaziabad,0,0
+D0107,48,8,440,Individual,Sanitary Pad Drive,Other,0,0
+D0108,127,2,1180,Individual,Food Drive,Other,0,0
+D0109,24,2,560,Corporate,Education Fund,Ghaziabad,0,0
+D0110,8,6,890,Student,Sanitary Pad Drive,Lucknow,1,810
+D0111,31,1,240,Individual,Food Drive,Other,0,0
+D0112,16,2,720,Individual,Education Fund,Kanpur,0,0
+D0113,239,3,50,Individual,Word of Mouth,Mumbai,0,0
+D0114,149,3,560,Individual,Word of Mouth,Other,1,660
+D0115,91,6,150,Student,Education Fund,Kanpur,1,180
+D0116,185,9,1970,Student,Food Drive,Kanpur,1,2550
+D0117,147,5,1340,Corporate,Food Drive,Other,0,0
+D0118,19,7,1010,Individual,Education Fund,Lucknow,1,850
+D0119,201,1,2610,Student,Word of Mouth,Kanpur,1,2520
+D0120,70,2,280,Corporate,Food Drive,Kanpur,0,0
+D0121,149,8,3210,Student,Social Media,Ghaziabad,1,3720
+D0122,204,3,1540,Corporate,Food Drive,Delhi,0,0
+D0123,35,4,540,Student,Word of Mouth,Delhi,1,430
+D0124,11,1,1850,Corporate,Education Fund,Other,0,0
+D0125,24,1,250,Individual,Social Media,Ghaziabad,0,0
+D0126,51,4,320,NRI,Education Fund,Lucknow,0,0
+D0127,154,1,380,Individual,Clothes Donation,Lucknow,0,0
+D0128,178,2,410,Corporate,Food Drive,Ghaziabad,0,0
+D0129,1,4,260,Individual,Food Drive,Kanpur,1,290
+D0130,65,2,2000,Corporate,Word of Mouth,Other,1,2150
+D0131,49,1,530,Corporate,Word of Mouth,Mumbai,1,720
+D0132,23,3,910,Individual,Social Media,Lucknow,0,0
+D0133,12,3,400,Individual,Clothes Donation,Lucknow,1,340
+D0134,38,13,130,Corporate,Social Media,Kanpur,1,140
+D0135,258,3,850,Student,Food Drive,Lucknow,1,800
+D0136,36,2,120,Individual,Education Fund,Delhi,0,0
+D0137,66,2,630,Individual,Education Fund,Lucknow,0,0
+D0138,110,1,190,Corporate,Clothes Donation,Other,0,0
+D0139,41,7,3980,Individual,Education Fund,Lucknow,0,0
+D0140,322,1,1510,Individual,Food Drive,Ghaziabad,1,1360
+D0141,296,13,730,Individual,Sanitary Pad Drive,Delhi,1,800
+D0142,27,5,2070,Individual,Social Media,Kanpur,0,0
+D0143,62,2,310,Individual,Education Fund,Ghaziabad,1,370
+D0144,33,1,1080,Individual,Food Drive,Ghaziabad,1,1080
+D0145,31,4,800,Individual,Food Drive,Ghaziabad,0,0
+D0146,4,4,840,Individual,Education Fund,Delhi,0,0
+D0147,85,6,2090,Individual,Education Fund,Lucknow,1,1930
+D0148,63,4,1290,Individual,Clothes Donation,Delhi,1,1060
+D0149,5,3,860,Individual,Clothes Donation,Lucknow,0,0
+D0150,30,3,150,Student,Clothes Donation,Ghaziabad,0,0
+D0151,215,5,280,Individual,Education Fund,Mumbai,1,390
+D0152,25,4,600,Individual,Social Media,Kanpur,0,0
+D0153,15,1,720,Individual,Food Drive,Kanpur,1,840
+D0154,61,12,240,Individual,Sanitary Pad Drive,Lucknow,1,270
+D0155,382,1,5830,Corporate,Social Media,Kanpur,0,0
+D0156,25,11,2600,Corporate,Food Drive,Kanpur,0,0
+D0157,101,6,1140,Student,Food Drive,Lucknow,1,1230
+D0158,130,5,710,Corporate,Social Media,Lucknow,1,840
+D0159,25,1,550,NRI,Education Fund,Ghaziabad,0,0
+D0160,118,2,280,Individual,Clothes Donation,Other,0,0
+D0161,42,2,710,Individual,Food Drive,Lucknow,0,0
+D0162,91,2,840,Individual,Clothes Donation,Mumbai,0,0
+D0163,91,3,220,Individual,Education Fund,Kanpur,0,0
+D0164,70,5,900,Individual,Food Drive,Lucknow,0,0
+D0165,9,3,580,Corporate,Clothes Donation,Mumbai,1,730
+D0166,163,4,120,Individual,Education Fund,Lucknow,1,150
+D0167,35,6,310,Student,Education Fund,Delhi,1,430
+D0168,19,3,460,Student,Food Drive,Ghaziabad,1,440
+D0169,4,5,3640,Individual,Food Drive,Kanpur,0,0
+D0170,81,5,1100,Individual,Education Fund,Ghaziabad,1,1100
+D0171,102,5,200,Individual,Food Drive,Ghaziabad,0,0
+D0172,2,3,1030,Individual,Word of Mouth,Mumbai,1,1350
+D0173,65,7,170,Individual,Food Drive,Kanpur,0,0
+D0174,24,9,1760,Individual,Sanitary Pad Drive,Other,1,2340
+D0175,94,1,440,Individual,Food Drive,Other,1,410
+D0176,18,1,610,Individual,Education Fund,Kanpur,0,0
+D0177,106,4,2190,NRI,Word of Mouth,Ghaziabad,1,1830
+D0178,45,7,210,Corporate,Food Drive,Mumbai,0,0
+D0179,249,4,190,Student,Word of Mouth,Other,0,0
+D0180,14,6,390,Individual,Food Drive,Ghaziabad,0,0
+D0181,38,5,1690,Individual,Clothes Donation,Ghaziabad,1,1870
+D0182,11,3,170,Corporate,Sanitary Pad Drive,Lucknow,1,230
+D0183,233,3,50,Individual,Social Media,Delhi,0,0
+D0184,189,4,440,Individual,Sanitary Pad Drive,Kanpur,0,0
+D0185,27,6,1090,Corporate,Sanitary Pad Drive,Delhi,0,0
+D0186,98,4,1960,Corporate,Food Drive,Kanpur,1,2030
+D0187,153,8,440,Individual,Food Drive,Kanpur,1,400
+D0188,73,8,460,Individual,Word of Mouth,Ghaziabad,1,490
+D0189,68,2,1880,Individual,Education Fund,Ghaziabad,0,0
+D0190,25,4,120,Individual,Education Fund,Ghaziabad,0,0
+D0191,9,4,470,Individual,Social Media,Lucknow,1,590
+D0192,205,1,790,Individual,Education Fund,Ghaziabad,0,0
+D0193,208,3,1000,Individual,Word of Mouth,Kanpur,1,1390
+D0194,91,2,420,NRI,Clothes Donation,Ghaziabad,0,0
+D0195,38,4,690,Corporate,Sanitary Pad Drive,Other,1,580
+D0196,39,4,70,Student,Social Media,Ghaziabad,0,0
+D0197,117,10,370,Individual,Food Drive,Ghaziabad,1,390
+D0198,205,3,1000,Individual,Education Fund,Lucknow,0,0
+D0199,197,4,270,Individual,Sanitary Pad Drive,Other,0,0
+D0200,137,4,700,Individual,Education Fund,Kanpur,0,0
+D0201,93,4,990,Individual,Clothes Donation,Delhi,0,0
+D0202,8,5,490,Student,Word of Mouth,Delhi,0,0
+D0203,16,1,780,Corporate,Sanitary Pad Drive,Lucknow,1,960
+D0204,206,8,280,Individual,Education Fund,Kanpur,1,380
+D0205,84,1,550,Individual,Word of Mouth,Delhi,1,730
+D0206,1,1,1150,Student,Sanitary Pad Drive,Kanpur,1,1280
+D0207,10,4,770,Individual,Sanitary Pad Drive,Lucknow,1,970
+D0208,99,3,390,Individual,Education Fund,Delhi,0,0
+D0209,1,1,810,Individual,Word of Mouth,Kanpur,1,920
+D0210,16,2,1270,Student,Sanitary Pad Drive,Mumbai,1,1100
+D0211,72,5,110,NRI,Social Media,Kanpur,1,100
+D0212,106,3,1890,Individual,Social Media,Mumbai,1,2110
+D0213,95,2,490,Student,Education Fund,Ghaziabad,0,0
+D0214,23,4,980,Student,Sanitary Pad Drive,Kanpur,1,800
+D0215,113,4,1950,Individual,Social Media,Kanpur,1,2410
+D0216,25,1,190,Individual,Education Fund,Other,0,0
+D0217,36,6,350,Individual,Social Media,Kanpur,0,0
+D0218,124,6,510,NRI,Word of Mouth,Kanpur,1,570
+D0219,95,2,330,Individual,Clothes Donation,Ghaziabad,0,0
+D0220,171,4,3170,Student,Clothes Donation,Lucknow,1,3460
+D0221,97,7,310,Individual,Social Media,Lucknow,0,0
+D0222,76,3,400,Student,Social Media,Kanpur,0,0
+D0223,9,4,800,Individual,Education Fund,Ghaziabad,1,1040
+D0224,42,3,230,Corporate,Food Drive,Kanpur,1,320
+D0225,28,3,470,Student,Sanitary Pad Drive,Kanpur,0,0
+D0226,26,1,890,Student,Clothes Donation,Ghaziabad,0,0
+D0227,326,2,490,Student,Sanitary Pad Drive,Delhi,1,660
+D0228,45,7,610,Individual,Clothes Donation,Kanpur,0,0
+D0229,201,8,410,Corporate,Education Fund,Ghaziabad,1,480
+D0230,90,3,170,Individual,Clothes Donation,Ghaziabad,1,180
+D0231,143,4,890,Individual,Food Drive,Other,0,0
+D0232,63,6,3230,Individual,Clothes Donation,Other,0,0
+D0233,78,1,680,Individual,Sanitary Pad Drive,Mumbai,0,0
+D0234,62,3,810,Individual,Food Drive,Kanpur,0,0
+D0235,20,2,1240,NRI,Education Fund,Kanpur,0,0
+D0236,116,8,210,Individual,Clothes Donation,Ghaziabad,0,0
+D0237,30,6,3080,Corporate,Sanitary Pad Drive,Kanpur,1,3960
+D0238,3,1,800,Individual,Food Drive,Lucknow,0,0
+D0239,94,2,2890,Individual,Word of Mouth,Delhi,0,0
+D0240,18,3,340,Individual,Clothes Donation,Mumbai,1,290
+D0241,254,3,3420,Student,Word of Mouth,Mumbai,0,0
+D0242,277,3,1340,Student,Sanitary Pad Drive,Ghaziabad,0,0
+D0243,222,4,1090,Student,Sanitary Pad Drive,Delhi,0,0
+D0244,42,1,820,NRI,Social Media,Ghaziabad,1,1060
+D0245,2,3,530,Individual,Sanitary Pad Drive,Kanpur,1,630
+D0246,238,4,1960,Individual,Clothes Donation,Delhi,0,0
+D0247,51,2,750,Corporate,Education Fund,Kanpur,1,920
+D0248,307,1,110,Individual,Sanitary Pad Drive,Ghaziabad,0,0
+D0249,299,2,240,Individual,Food Drive,Ghaziabad,1,270
+D0250,173,8,560,Individual,Food Drive,Delhi,1,490
+D0251,32,5,880,Corporate,Food Drive,Delhi,0,0
+D0252,44,2,630,Corporate,Food Drive,Ghaziabad,0,0
+D0253,172,4,1990,Individual,Word of Mouth,Mumbai,0,0
+D0254,35,4,110,Individual,Education Fund,Ghaziabad,1,120
+D0255,17,11,760,Corporate,Clothes Donation,Ghaziabad,0,0
+D0256,74,1,130,Corporate,Social Media,Delhi,1,100
+D0257,248,5,1320,Individual,Sanitary Pad Drive,Delhi,1,1210
+D0258,108,9,610,Student,Food Drive,Other,1,670
+D0259,76,6,970,Individual,Clothes Donation,Kanpur,0,0
+D0260,10,3,310,Individual,Clothes Donation,Delhi,0,0
+D0261,86,2,2100,Student,Clothes Donation,Lucknow,0,0
+D0262,415,6,1700,Corporate,Social Media,Other,0,0
+D0263,14,3,1120,Individual,Word of Mouth,Kanpur,1,1300
+D0264,66,7,590,Corporate,Sanitary Pad Drive,Delhi,1,580
+D0265,189,11,1120,Corporate,Education Fund,Lucknow,1,1170
+D0266,122,4,350,Student,Clothes Donation,Kanpur,0,0
+D0267,108,5,1440,Student,Food Drive,Ghaziabad,1,1990
+D0268,110,11,2940,Corporate,Social Media,Ghaziabad,1,2580
+D0269,41,4,1740,Individual,Food Drive,Lucknow,0,0
+D0270,32,4,340,Individual,Education Fund,Mumbai,0,0
+D0271,150,10,920,Individual,Social Media,Lucknow,1,860
+D0272,150,1,210,Individual,Sanitary Pad Drive,Lucknow,1,270
+D0273,182,2,1110,Corporate,Education Fund,Lucknow,0,0
+D0274,221,4,1000,Individual,Sanitary Pad Drive,Kanpur,1,850
+D0275,65,3,120,Individual,Social Media,Kanpur,0,0
+D0276,63,5,230,Individual,Education Fund,Lucknow,0,0
+D0277,145,1,520,Individual,Social Media,Ghaziabad,1,440
+D0278,95,1,510,Individual,Food Drive,Kanpur,0,0
+D0279,109,2,220,Student,Social Media,Lucknow,0,0
+D0280,143,3,940,Individual,Social Media,Ghaziabad,1,1270
+D0281,199,7,830,Corporate,Food Drive,Kanpur,0,0
+D0282,38,5,560,Student,Sanitary Pad Drive,Ghaziabad,1,680
+D0283,43,4,340,Individual,Food Drive,Kanpur,0,0
+D0284,9,7,1710,Individual,Clothes Donation,Other,0,0
+D0285,78,7,2950,Individual,Sanitary Pad Drive,Mumbai,0,0
+D0286,4,2,430,Corporate,Clothes Donation,Delhi,1,550
+D0287,57,3,380,Corporate,Food Drive,Kanpur,0,0
+D0288,71,1,1030,Individual,Food Drive,Delhi,0,0
+D0289,31,2,480,Individual,Food Drive,Mumbai,1,630
+D0290,81,5,590,Student,Education Fund,Delhi,0,0
+D0291,3,1,1290,Individual,Sanitary Pad Drive,Kanpur,1,1790
+D0292,4,4,120,Individual,Social Media,Lucknow,1,110
+D0293,156,1,2180,Student,Clothes Donation,Mumbai,0,0
+D0294,41,2,710,Corporate,Sanitary Pad Drive,Lucknow,0,0
+D0295,13,4,460,Student,Word of Mouth,Lucknow,0,0
+D0296,67,1,610,Corporate,Clothes Donation,Ghaziabad,1,560
+D0297,133,3,640,Student,Word of Mouth,Lucknow,1,540
+D0298,22,1,140,Individual,Sanitary Pad Drive,Kanpur,1,200
+D0299,88,1,2550,Student,Education Fund,Lucknow,0,0
+D0300,9,4,690,Student,Food Drive,Kanpur,1,900
+D0301,5,5,990,Corporate,Clothes Donation,Ghaziabad,1,1010
+D0302,69,1,1570,Individual,Food Drive,Ghaziabad,1,2050
+D0303,71,2,270,Individual,Education Fund,Lucknow,0,0
+D0304,92,2,1020,Individual,Sanitary Pad Drive,Kanpur,0,0
+D0305,117,6,520,Individual,Sanitary Pad Drive,Delhi,0,0
+D0306,336,10,1430,Individual,Clothes Donation,Delhi,1,1150
+D0307,66,2,100,Corporate,Food Drive,Kanpur,0,0
+D0308,36,1,610,Corporate,Education Fund,Kanpur,1,580
+D0309,143,1,390,Individual,Clothes Donation,Kanpur,0,0
+D0310,29,6,980,Corporate,Word of Mouth,Mumbai,0,0
+D0311,53,6,1020,Individual,Clothes Donation,Lucknow,1,1100
+D0312,8,2,350,Individual,Word of Mouth,Ghaziabad,0,0
+D0313,3,2,350,Individual,Social Media,Kanpur,1,320
+D0314,296,2,600,Individual,Sanitary Pad Drive,Lucknow,1,770
+D0315,163,12,300,Individual,Food Drive,Mumbai,1,410
+D0316,108,6,1420,Individual,Clothes Donation,Mumbai,1,1360
+D0317,48,15,480,Individual,Clothes Donation,Lucknow,1,530
+D0318,18,3,50,Student,Clothes Donation,Kanpur,0,0
+D0319,16,3,470,Individual,Sanitary Pad Drive,Kanpur,1,530
+D0320,26,4,260,Corporate,Sanitary Pad Drive,Kanpur,0,0
+D0321,72,6,150,Corporate,Education Fund,Kanpur,0,0
+D0322,113,9,220,Student,Sanitary Pad Drive,Kanpur,0,0
+D0323,98,1,730,Student,Food Drive,Kanpur,0,0
+D0324,30,7,2200,Individual,Social Media,Ghaziabad,0,0
+D0325,279,4,880,Individual,Food Drive,Other,0,0
+D0326,121,1,390,Student,Food Drive,Lucknow,0,0
+D0327,73,2,1000,Individual,Sanitary Pad Drive,Mumbai,0,0
+D0328,86,4,440,Corporate,Clothes Donation,Delhi,0,0
+D0329,49,7,360,Corporate,Sanitary Pad Drive,Kanpur,1,370
+D0330,26,1,240,Corporate,Education Fund,Delhi,0,0
+D0331,40,1,140,Student,Sanitary Pad Drive,Kanpur,0,0
+D0332,128,1,470,NRI,Education Fund,Lucknow,0,0
+D0333,2,2,770,Student,Word of Mouth,Ghaziabad,1,730
+D0334,12,2,610,Individual,Word of Mouth,Other,1,610
+D0335,5,4,460,Student,Sanitary Pad Drive,Kanpur,1,420
+D0336,4,3,280,Individual,Education Fund,Kanpur,1,320
+D0337,175,3,1150,Individual,Clothes Donation,Other,1,1030
+D0338,110,11,200,Student,Food Drive,Kanpur,0,0
+D0339,58,1,1340,Individual,Sanitary Pad Drive,Delhi,0,0
+D0340,10,3,270,Individual,Education Fund,Delhi,1,310
+D0341,61,1,340,Individual,Word of Mouth,Mumbai,1,350
+D0342,58,2,180,Student,Food Drive,Other,1,190
+D0343,18,2,420,Individual,Sanitary Pad Drive,Other,0,0
+D0344,52,5,1600,Corporate,Clothes Donation,Kanpur,1,1290
+D0345,46,3,1060,Individual,Sanitary Pad Drive,Mumbai,1,900
+D0346,87,3,1600,Student,Food Drive,Lucknow,0,0
+D0347,91,12,1060,Student,Word of Mouth,Lucknow,1,900
+D0348,5,3,250,Individual,Sanitary Pad Drive,Kanpur,1,310
+D0349,43,3,490,Individual,Clothes Donation,Lucknow,1,660
+D0350,89,5,330,Individual,Education Fund,Other,0,0
+D0351,63,2,2200,NRI,Sanitary Pad Drive,Other,0,0
+D0352,175,8,230,Corporate,Sanitary Pad Drive,Ghaziabad,1,260
+D0353,97,4,1490,Student,Food Drive,Kanpur,1,1980
+D0354,17,1,1490,Individual,Food Drive,Ghaziabad,0,0
+D0355,7,2,3450,Student,Social Media,Mumbai,1,4290
+D0356,93,12,460,Student,Education Fund,Delhi,1,390
+D0357,3,6,1260,Corporate,Food Drive,Ghaziabad,1,1510
+D0358,80,2,5180,NRI,Sanitary Pad Drive,Kanpur,0,0
+D0359,254,5,380,Individual,Social Media,Ghaziabad,0,0
+D0360,78,6,170,Individual,Food Drive,Ghaziabad,1,140
+D0361,45,1,120,Corporate,Sanitary Pad Drive,Other,0,0
+D0362,93,2,1260,Student,Food Drive,Lucknow,1,1610
+D0363,56,1,120,Corporate,Food Drive,Ghaziabad,0,0
+D0364,71,2,480,Individual,Food Drive,Lucknow,0,0
+D0365,256,5,990,Individual,Social Media,Kanpur,1,1020
+D0366,44,1,790,Individual,Food Drive,Other,0,0
+D0367,293,4,980,Individual,Food Drive,Ghaziabad,1,1220
+D0368,213,1,810,Corporate,Sanitary Pad Drive,Ghaziabad,0,0
+D0369,20,3,2100,Student,Social Media,Ghaziabad,1,1830
+D0370,7,8,280,Individual,Education Fund,Delhi,0,0
+D0371,10,1,360,Individual,Sanitary Pad Drive,Delhi,1,490
+D0372,2,4,330,Individual,Food Drive,Delhi,1,380
+D0373,9,1,1400,Individual,Sanitary Pad Drive,Kanpur,1,1570
+D0374,104,10,1500,Student,Sanitary Pad Drive,Ghaziabad,1,1740
+D0375,7,4,1000,Student,Sanitary Pad Drive,Kanpur,1,1020
+D0376,35,2,1930,Individual,Education Fund,Lucknow,0,0
+D0377,168,6,230,Student,Education Fund,Kanpur,1,260
+D0378,3,1,2980,Student,Food Drive,Lucknow,1,2590
+D0379,152,13,2620,Student,Education Fund,Mumbai,1,2300
+D0380,30,3,1290,Individual,Food Drive,Mumbai,1,1450
+D0381,12,2,3310,NRI,Social Media,Ghaziabad,1,4510
+D0382,108,2,150,Individual,Word of Mouth,Ghaziabad,0,0
+D0383,90,3,410,Individual,Word of Mouth,Kanpur,0,0
+D0384,189,9,340,Individual,Social Media,Delhi,1,430
+D0385,120,1,1270,Individual,Clothes Donation,Mumbai,0,0
+D0386,147,3,260,Individual,Clothes Donation,Kanpur,0,0
+D0387,30,5,1320,Individual,Education Fund,Ghaziabad,1,1140
+D0388,18,2,2280,Individual,Clothes Donation,Mumbai,0,0
+D0389,125,2,1240,Student,Sanitary Pad Drive,Mumbai,0,0
+D0390,148,5,860,Student,Sanitary Pad Drive,Kanpur,0,0
+D0391,420,1,270,Individual,Social Media,Lucknow,1,300
+D0392,48,7,310,Student,Education Fund,Kanpur,0,0
+D0393,42,7,2050,Student,Education Fund,Kanpur,1,1780
+D0394,135,10,1340,Student,Word of Mouth,Other,1,1400
+D0395,38,7,640,Individual,Food Drive,Mumbai,1,700
+D0396,241,4,460,Corporate,Sanitary Pad Drive,Delhi,0,0
+D0397,176,9,110,Student,Word of Mouth,Kanpur,0,0
+D0398,51,2,250,Corporate,Clothes Donation,Mumbai,0,0
+D0399,126,1,3720,Individual,Sanitary Pad Drive,Ghaziabad,0,0
+D0400,127,2,210,Individual,Education Fund,Ghaziabad,1,260
+D0401,10,1,790,Corporate,Education Fund,Lucknow,1,900
+D0402,210,8,1650,Individual,Social Media,Kanpur,1,2010
+D0403,64,5,210,Individual,Sanitary Pad Drive,Delhi,1,220
+D0404,158,3,790,Individual,Sanitary Pad Drive,Lucknow,0,0
+D0405,35,3,1550,Student,Food Drive,Kanpur,0,0
+D0406,204,1,670,Student,Food Drive,Kanpur,1,750
+D0407,45,6,8790,Individual,Word of Mouth,Kanpur,1,10400
+D0408,1,6,150,NRI,Education Fund,Kanpur,1,150
+D0409,213,4,1720,Individual,Clothes Donation,Lucknow,1,2310
+D0410,9,1,570,Corporate,Food Drive,Mumbai,0,0
+D0411,35,5,1330,Student,Clothes Donation,Kanpur,0,0
+D0412,270,1,990,Student,Word of Mouth,Kanpur,0,0
+D0413,271,4,340,Student,Sanitary Pad Drive,Lucknow,0,0
+D0414,77,3,820,Individual,Food Drive,Mumbai,1,1050
+D0415,90,4,120,Student,Sanitary Pad Drive,Ghaziabad,1,130
+D0416,54,2,1140,Individual,Social Media,Ghaziabad,0,0
+D0417,32,6,870,Student,Sanitary Pad Drive,Lucknow,0,0
+D0418,36,5,1180,Student,Social Media,Kanpur,1,1230
+D0419,101,6,1720,Corporate,Clothes Donation,Kanpur,1,2300
+D0420,126,4,930,Individual,Social Media,Delhi,0,0
+D0421,142,2,760,Student,Clothes Donation,Lucknow,0,0
+D0422,141,7,300,Individual,Food Drive,Lucknow,0,0
+D0423,9,4,350,Individual,Education Fund,Delhi,1,300
+D0424,62,13,1940,Student,Food Drive,Delhi,1,2560
+D0425,6,4,2420,Individual,Word of Mouth,Kanpur,1,2400
+D0426,72,3,540,Student,Social Media,Ghaziabad,1,490
+D0427,53,1,690,Individual,Clothes Donation,Kanpur,1,650
+D0428,197,3,290,Individual,Education Fund,Kanpur,1,300
+D0429,39,5,1910,Student,Food Drive,Delhi,0,0
+D0430,12,2,1210,Individual,Social Media,Mumbai,0,0
+D0431,14,2,3820,Individual,Sanitary Pad Drive,Other,1,3370
+D0432,130,2,300,Student,Education Fund,Lucknow,0,0
+D0433,87,3,470,Individual,Clothes Donation,Kanpur,1,540
+D0434,10,2,820,Corporate,Food Drive,Kanpur,1,870
+D0435,8,1,1190,Individual,Education Fund,Mumbai,1,1200
+D0436,109,8,550,Student,Sanitary Pad Drive,Lucknow,1,690
+D0437,7,7,300,Student,Food Drive,Lucknow,1,400
+D0438,156,1,1470,Student,Word of Mouth,Delhi,0,0
+D0439,111,5,1270,Individual,Food Drive,Delhi,1,1270
+D0440,8,2,290,Student,Food Drive,Mumbai,0,0
+D0441,8,8,2250,Corporate,Food Drive,Kanpur,1,2010
+D0442,389,4,1910,Corporate,Social Media,Delhi,1,1680
+D0443,43,3,750,Individual,Sanitary Pad Drive,Mumbai,1,760
+D0444,42,3,710,Student,Sanitary Pad Drive,Ghaziabad,0,0
+D0445,151,3,1100,Student,Food Drive,Lucknow,1,1040
+D0446,265,1,310,Individual,Food Drive,Ghaziabad,0,0
+D0447,385,3,680,Individual,Sanitary Pad Drive,Other,0,0
+D0448,126,1,100,Student,Social Media,Kanpur,0,0
+D0449,43,4,1460,Individual,Social Media,Lucknow,0,0
+D0450,8,10,160,NRI,Food Drive,Kanpur,1,150
+D0451,136,4,2570,Corporate,Sanitary Pad Drive,Delhi,1,2910
+D0452,74,2,490,Corporate,Word of Mouth,Kanpur,1,550
+D0453,50,6,550,Individual,Education Fund,Kanpur,0,0
+D0454,214,1,380,Individual,Social Media,Lucknow,1,360
+D0455,11,2,510,Student,Food Drive,Other,1,670
+D0456,62,1,2380,Individual,Word of Mouth,Kanpur,0,0
+D0457,2,3,70,Student,Social Media,Kanpur,1,90
+D0458,57,5,2100,Individual,Word of Mouth,Delhi,0,0
+D0459,6,6,900,Individual,Clothes Donation,Lucknow,0,0
+D0460,12,8,220,Individual,Education Fund,Other,1,220
+D0461,12,3,250,Individual,Word of Mouth,Kanpur,1,280
+D0462,95,2,3010,NRI,Education Fund,Lucknow,1,2540
+D0463,124,1,280,Individual,Education Fund,Kanpur,0,0
+D0464,79,6,240,Individual,Clothes Donation,Kanpur,0,0
+D0465,295,3,1850,Individual,Social Media,Delhi,0,0
+D0466,43,7,900,Individual,Word of Mouth,Lucknow,0,0
+D0467,31,2,290,Individual,Food Drive,Delhi,0,0
+D0468,183,1,810,Student,Social Media,Ghaziabad,1,1010
+D0469,23,3,260,Individual,Clothes Donation,Ghaziabad,1,310
+D0470,298,2,1790,Individual,Food Drive,Ghaziabad,0,0
+D0471,2,7,1730,Individual,Education Fund,Other,1,2220
+D0472,316,3,1070,NRI,Education Fund,Ghaziabad,1,1050
+D0473,4,2,920,Individual,Education Fund,Ghaziabad,0,0
+D0474,200,4,3250,Individual,Word of Mouth,Ghaziabad,1,4050
+D0475,68,3,660,Corporate,Clothes Donation,Lucknow,0,0
+D0476,447,9,230,Corporate,Clothes Donation,Kanpur,1,230
+D0477,7,12,1000,Individual,Word of Mouth,Other,1,1080
+D0478,73,4,4350,Individual,Education Fund,Kanpur,0,0
+D0479,314,4,270,Student,Social Media,Mumbai,1,370
+D0480,67,5,480,Individual,Sanitary Pad Drive,Kanpur,1,540
+D0481,90,1,970,Student,Social Media,Lucknow,0,0
+D0482,108,7,630,Corporate,Food Drive,Other,1,850
+D0483,55,6,270,Individual,Word of Mouth,Kanpur,1,230
+D0484,89,5,1830,Individual,Food Drive,Other,1,1720
+D0485,80,2,5370,Individual,Education Fund,Ghaziabad,0,0
+D0486,209,2,790,Student,Social Media,Other,0,0
+D0487,5,6,290,Individual,Education Fund,Delhi,1,380
+D0488,30,2,160,Individual,Clothes Donation,Ghaziabad,0,0
+D0489,271,3,840,Corporate,Sanitary Pad Drive,Kanpur,1,720
+D0490,199,1,1800,NRI,Clothes Donation,Ghaziabad,0,0
+D0491,55,4,1020,Individual,Education Fund,Kanpur,1,960
+D0492,88,2,660,Student,Food Drive,Kanpur,1,640
+D0493,30,4,390,Individual,Education Fund,Kanpur,0,0
+D0494,19,2,250,Individual,Sanitary Pad Drive,Ghaziabad,0,0
+D0495,57,5,1410,Individual,Food Drive,Delhi,1,1830
+D0496,40,4,1510,Individual,Education Fund,Kanpur,1,1600
+D0497,79,11,170,Individual,Education Fund,Kanpur,1,200
+D0498,8,6,2780,Individual,Food Drive,Lucknow,1,2370
+D0499,330,5,1120,Student,Sanitary Pad Drive,Kanpur,1,1120
+D0500,386,10,2340,Student,Social Media,Kanpur,0,0

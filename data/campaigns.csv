@@ -1,0 +1,121 @@
+campaign_id,campaign_type,platform,month,reach,likes,shares,comments,has_image,has_video,volunteers_joined,donations_received_inr,engagement_rate,impact_level
+C001,Food Drive,Facebook,Dec,595,103,28,10,1,0,1,3464,0.3479,High
+C002,Education Fund,Instagram,Sep,7334,937,199,46,1,0,34,32475,0.2217,High
+C003,Fundraiser Event,Instagram,Oct,1075,105,14,4,1,0,17,16256,0.1442,Medium
+C004,Clothes Donation,WhatsApp,Jun,7840,702,204,22,1,0,131,41061,0.1732,Medium
+C005,Clothes Donation,Instagram,Oct,1784,140,35,11,0,0,11,30995,0.1497,Medium
+C006,Education Fund,Instagram,Jul,1155,204,42,13,1,0,20,17565,0.3082,High
+C007,Sanitary Pad Drive,WhatsApp,Dec,20652,1036,127,40,1,0,323,355874,0.0725,Low
+C008,Food Drive,Facebook,Oct,3686,284,40,24,1,0,32,28502,0.1226,Low
+C009,Education Fund,Instagram,Mar,2025,208,45,7,1,0,30,16281,0.1763,Medium
+C010,Clothes Donation,Instagram,Aug,7404,752,51,56,1,1,142,105480,0.1374,Medium
+C011,Awareness Post,Twitter,Mar,597,60,6,4,1,0,5,1821,0.1441,Medium
+C012,Clothes Donation,LinkedIn,Jan,11251,634,144,59,0,1,62,171169,0.1052,Low
+C013,Awareness Post,WhatsApp,Oct,2521,130,22,3,1,0,47,43175,0.0801,Low
+C014,Food Drive,Facebook,Dec,6129,418,62,45,1,1,76,59851,0.1132,Low
+C015,Awareness Post,Facebook,May,465,77,6,6,1,0,1,7386,0.2301,High
+C016,Education Fund,Twitter,Feb,1883,88,14,3,1,0,22,10461,0.0722,Low
+C017,Awareness Post,Twitter,Oct,2997,430,104,16,0,0,31,24394,0.2583,High
+C018,Sanitary Pad Drive,Instagram,Jun,10263,1474,170,93,1,0,177,200645,0.2114,High
+C019,Education Fund,LinkedIn,Oct,6744,1021,52,103,0,0,74,133266,0.2051,Medium
+C020,Food Drive,Instagram,Sep,1861,303,65,31,1,0,10,21346,0.3009,High
+C021,Education Fund,Instagram,Jan,4365,303,88,21,1,0,60,82279,0.1395,Medium
+C022,Sanitary Pad Drive,WhatsApp,Apr,13465,857,172,90,0,0,152,156837,0.1153,Low
+C023,Food Drive,Facebook,Jan,2344,233,18,4,1,0,12,17820,0.1259,Low
+C024,Clothes Donation,Twitter,Jan,2057,143,18,3,1,0,24,14750,0.0987,Low
+C025,Sanitary Pad Drive,Instagram,Aug,308,43,11,4,1,1,5,5780,0.2727,High
+C026,Food Drive,Facebook,Nov,2132,267,28,26,0,0,3,11763,0.189,Medium
+C027,Awareness Post,LinkedIn,Feb,369,59,11,3,1,0,4,4665,0.2656,High
+C028,Education Fund,LinkedIn,Jan,2598,110,16,10,1,1,19,31751,0.0685,Low
+C029,Food Drive,Instagram,Nov,9757,1631,166,188,1,0,64,150681,0.2567,High
+C030,Education Fund,Facebook,Aug,234,17,4,1,1,0,1,2629,0.1325,Medium
+C031,Awareness Post,WhatsApp,Apr,13108,1358,320,141,0,0,98,95229,0.1984,Medium
+C032,Food Drive,Instagram,Mar,2005,192,41,18,1,1,33,10956,0.1751,Medium
+C033,Clothes Donation,Twitter,Dec,2885,415,45,15,1,0,17,38556,0.201,Medium
+C034,Sanitary Pad Drive,LinkedIn,Apr,1631,151,11,15,0,1,24,24599,0.1312,Low
+C035,Food Drive,Instagram,Nov,381,65,12,2,1,1,1,4749,0.2756,High
+C036,Awareness Post,Instagram,May,1164,192,36,20,1,0,22,17950,0.2921,High
+C037,Food Drive,Instagram,Jan,36934,5939,576,391,1,0,473,183806,0.2288,High
+C038,Education Fund,LinkedIn,Nov,800,32,2,2,1,0,11,14354,0.0525,Low
+C039,Fundraiser Event,Instagram,Jan,443,70,4,4,1,1,2,5622,0.2032,Medium
+C040,Food Drive,Facebook,Mar,3531,519,154,15,1,0,31,16665,0.2863,High
+C041,Clothes Donation,Facebook,Jun,2689,122,29,5,1,1,14,28459,0.0814,Low
+C042,Food Drive,Facebook,Jan,2022,93,26,11,1,0,37,34947,0.0955,Low
+C043,Sanitary Pad Drive,Instagram,Nov,3033,137,13,15,1,0,31,55222,0.0679,Low
+C044,Food Drive,Instagram,Dec,6457,204,59,10,1,0,83,46047,0.0621,Low
+C045,Fundraiser Event,Twitter,Feb,1473,165,14,19,1,1,22,22017,0.1663,Medium
+C046,Education Fund,LinkedIn,Dec,3764,662,117,69,0,0,30,15996,0.3058,High
+C047,Food Drive,WhatsApp,Jul,10184,975,250,79,1,0,149,31438,0.1849,Medium
+C048,Clothes Donation,Instagram,Jan,902,100,13,2,1,1,12,11100,0.1585,Medium
+C049,Awareness Post,Instagram,Jul,183,32,4,3,1,1,2,2682,0.2732,High
+C050,Food Drive,WhatsApp,Apr,6667,455,37,34,0,0,68,109513,0.0951,Low
+C051,Food Drive,Instagram,Oct,60087,9540,770,1019,0,0,497,507962,0.2311,High
+C052,Sanitary Pad Drive,LinkedIn,Jun,2954,330,67,34,1,0,15,7722,0.2028,Medium
+C053,Clothes Donation,WhatsApp,Aug,3798,438,95,45,1,0,63,41366,0.2141,High
+C054,Fundraiser Event,Instagram,Sep,2090,170,41,15,1,0,26,5804,0.1545,Medium
+C055,Awareness Post,LinkedIn,Jun,20043,2289,433,112,1,0,189,82371,0.1902,Medium
+C056,Education Fund,Twitter,Dec,2715,111,23,5,1,1,51,22309,0.07,Low
+C057,Food Drive,Instagram,Nov,2383,344,18,17,0,1,4,24188,0.1813,Medium
+C058,Fundraiser Event,Facebook,Sep,8893,646,58,14,1,0,152,65725,0.0954,Low
+C059,Awareness Post,Instagram,Apr,1667,271,80,21,1,0,33,21141,0.3317,High
+C060,Education Fund,Facebook,Jun,638,54,3,4,1,0,11,2212,0.1113,Low
+C061,Fundraiser Event,Instagram,Aug,8593,441,96,46,1,0,140,43224,0.0955,Low
+C062,Clothes Donation,Facebook,Sep,1465,196,18,6,0,0,11,21487,0.1788,Medium
+C063,Clothes Donation,Twitter,Mar,924,50,11,3,0,0,4,4608,0.0963,Low
+C064,Awareness Post,Facebook,Feb,37051,5300,1200,110,1,1,554,507452,0.2461,High
+C065,Education Fund,Instagram,Jun,2405,421,45,12,1,0,16,8314,0.2412,High
+C066,Clothes Donation,WhatsApp,Apr,5394,792,92,20,1,0,23,51939,0.2054,High
+C067,Awareness Post,Instagram,Jan,3088,103,22,9,1,1,49,17307,0.0606,Low
+C068,Clothes Donation,LinkedIn,Aug,1029,123,18,3,1,0,7,4546,0.1778,Medium
+C069,Clothes Donation,Facebook,Sep,6817,915,90,83,1,0,125,84688,0.1982,Medium
+C070,Fundraiser Event,Instagram,Sep,4348,668,155,30,0,1,73,81507,0.2744,High
+C071,Fundraiser Event,Instagram,Feb,1351,51,4,5,1,1,23,4672,0.054,Low
+C072,Clothes Donation,WhatsApp,Sep,5013,511,134,51,0,0,78,49514,0.2025,Medium
+C073,Sanitary Pad Drive,Instagram,Jul,1608,177,31,20,1,0,28,23930,0.1928,Medium
+C074,Fundraiser Event,WhatsApp,May,792,43,3,4,0,0,12,8392,0.0758,Low
+C075,Education Fund,Instagram,Jul,701,54,12,6,1,1,8,11646,0.1455,Medium
+C076,Awareness Post,Instagram,Sep,4121,395,71,41,1,1,27,23258,0.1674,Medium
+C077,Awareness Post,Facebook,Aug,1883,291,36,25,1,1,33,36328,0.2384,High
+C078,Education Fund,Twitter,Jun,18070,3061,476,113,0,1,306,166973,0.2609,High
+C079,Education Fund,Twitter,Apr,2831,351,43,16,1,1,28,23999,0.1809,Medium
+C080,Education Fund,Instagram,Jan,1161,103,11,4,1,0,2,20672,0.124,Low
+C081,Education Fund,Facebook,Jun,3602,245,22,19,1,0,47,44548,0.0969,Low
+C082,Food Drive,Instagram,Mar,630,111,15,7,1,0,1,7268,0.2698,High
+C083,Awareness Post,Facebook,Jun,2694,478,53,51,1,1,50,41008,0.2743,High
+C084,Food Drive,Facebook,Jun,4372,737,162,84,0,1,84,55293,0.3182,High
+C085,Clothes Donation,LinkedIn,Apr,3769,557,123,33,1,0,17,20141,0.2632,High
+C086,Clothes Donation,Twitter,Feb,14233,1122,196,79,1,0,197,203509,0.1312,Low
+C087,Awareness Post,Facebook,Sep,67307,10267,2510,1202,1,0,185,325476,0.3001,High
+C088,Clothes Donation,Facebook,Feb,6672,609,158,29,1,0,99,110771,0.171,Medium
+C089,Education Fund,LinkedIn,Mar,12265,969,188,96,1,0,93,243097,0.1406,Medium
+C090,Food Drive,LinkedIn,Oct,63079,8940,1830,380,1,0,879,574289,0.2408,High
+C091,Education Fund,Instagram,Jan,891,37,4,3,1,0,7,9162,0.0617,Low
+C092,Clothes Donation,Instagram,Jul,3486,129,35,5,1,0,13,11547,0.07,Low
+C093,Fundraiser Event,Facebook,Jan,1679,163,9,17,0,1,14,4601,0.1334,Medium
+C094,Food Drive,Instagram,Nov,8194,793,108,60,1,0,25,152611,0.151,Medium
+C095,Education Fund,Instagram,Sep,4129,678,156,26,1,1,49,19616,0.2901,High
+C096,Awareness Post,Instagram,Nov,1116,54,3,2,0,0,1,11496,0.06,Low
+C097,Education Fund,WhatsApp,Nov,3020,146,13,10,1,0,33,50641,0.0679,Low
+C098,Fundraiser Event,Instagram,Jan,10470,545,107,63,1,0,186,189120,0.0947,Low
+C099,Clothes Donation,Instagram,May,623,21,3,2,1,0,10,7220,0.0546,Low
+C100,Food Drive,Instagram,Jul,1145,46,10,3,0,0,20,14184,0.0716,Low
+C101,Awareness Post,LinkedIn,Mar,956,123,31,6,1,0,17,13593,0.2385,High
+C102,Food Drive,LinkedIn,Sep,4410,417,34,31,1,1,13,85219,0.1317,Low
+C103,Awareness Post,Facebook,Aug,13208,1909,104,181,1,1,45,172321,0.1956,Medium
+C104,Food Drive,Facebook,Mar,267,47,10,4,1,0,3,3281,0.3184,High
+C105,Clothes Donation,Twitter,May,3338,430,53,22,1,0,60,9194,0.1896,Medium
+C106,Awareness Post,Instagram,Jul,983,36,7,3,1,0,19,3850,0.0641,Low
+C107,Sanitary Pad Drive,Instagram,Dec,9961,455,39,39,1,0,18,125513,0.0653,Low
+C108,Food Drive,Instagram,Apr,2243,363,60,42,1,0,17,42357,0.2795,High
+C109,Food Drive,Instagram,May,3487,380,66,42,1,1,17,61605,0.1898,Medium
+C110,Education Fund,Facebook,Mar,2976,457,89,45,1,0,45,58612,0.2735,High
+C111,Awareness Post,LinkedIn,Sep,11488,1820,324,168,1,1,151,134835,0.2723,High
+C112,Fundraiser Event,WhatsApp,Oct,34834,5892,1024,279,1,0,114,567403,0.2734,High
+C113,Sanitary Pad Drive,Facebook,Sep,763,131,17,13,0,1,7,13128,0.2726,High
+C114,Clothes Donation,Twitter,Jul,950,107,7,6,1,0,13,13148,0.1474,Medium
+C115,Education Fund,Instagram,Oct,4384,355,25,16,1,1,69,36948,0.1054,Low
+C116,Sanitary Pad Drive,Instagram,Feb,1119,195,30,11,0,0,1,12000,0.2744,High
+C117,Awareness Post,Facebook,Jul,9138,1024,142,106,1,0,163,160038,0.1819,Medium
+C118,Sanitary Pad Drive,WhatsApp,Jul,11080,439,78,15,1,0,130,85588,0.0634,Low
+C119,Food Drive,Instagram,Nov,1547,195,24,12,1,0,25,28875,0.1881,Medium
+C120,Food Drive,Facebook,May,1192,140,31,9,1,0,19,7773,0.2106,High
